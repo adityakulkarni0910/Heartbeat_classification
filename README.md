@@ -13,5 +13,5 @@ The original dataset has 5 types of hearbeats (classes):
 The dataset used here has been modified slightly. I have combined 2,3,4,5 into one class. This is labelled as 0. So we will have binary classification task – predict whether the hearbeat is Normal or not based on sequence of 140 frequencies.
 
 Models used:
-- Simple RNN (single layer)
-- LSTM (single layer)
+1. Simple RNN (single layer)
+2. LSTM (single layer)
